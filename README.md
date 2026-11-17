@@ -86,9 +86,3 @@ cd descent
 3. **Drag** your finger across the screen to move the parachute player.
 4. Dodge incoming **Missiles** and **Bird Flocks** moving upward.
 5. Tap **❚❚** (Pause) at the top-right anytime to pause your session.
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).

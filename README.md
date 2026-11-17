@@ -17,14 +17,17 @@ A high-performance, native 2D arcade Android game developed in Java. Players nav
 
 ---
 Home Page
+
 <img src="images/homepage.jpg" width="300">
 
 
 Gameplay
+
 <img src="images/gameplay.jpg" width="300">
 
 
 Game Over
+
 <img src="images/gameover.jpg" width="300">
 
 ---

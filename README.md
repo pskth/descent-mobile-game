@@ -15,6 +15,20 @@ A high-performance, native 2D arcade Android game developed in Java. Players nav
 
 ---
 
+---
+Home Page
+![](images/homepage.jpg "Home Page")
+
+
+Gameplay
+![](images/gameplay.jpg "Home Page")
+
+
+Game Over
+![](images/gameover.jpg "Home Page")
+
+---
+
 ## 🛠️ Architecture & Core Components
 
 ```
